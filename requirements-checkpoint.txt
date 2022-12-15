@@ -1,0 +1,7 @@
+opencv-contrib-python
+scikit-learn
+tensorflow==2.2.0
+numpy
+matplotlib
+scipy
+jupyter-lab
